@@ -57,3 +57,20 @@ https://www.giac.org/
 Within the [Cybersecurity Overview](https://www.nist.gov/cybersecurity) of NIST, is the [Risk Managment](https://www.nist.gov/risk-management) Topic where we find the **_[Cybersecurity Framework](https://www.nist.gov/cyberframework)_**.
   
   * Within the NIST [**Information Technology**](https://www.nist.gov/information-technology) overview, there is also a [**Artificial Inteligence**](https://www.nist.gov/artificial-intelligence) topic.
+
+## Learning Paths
+
+Red Team : Sec+ > Net+ > CEH/Pentest+ > PSL > PHDC > OSCP
+Blue Team : Sec+ > Net+ > CySA+ > Vendor Cert ( Splunk )
+
+https://pauljerimy.com/security-certification-roadmap/
+
+## Pentesting Guides and Cheatsheets :
+
+https://book.hacktricks.xyz/linux-hardening/linux-privilege-escalation-checklist ( Highly Recomended )
+
+https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets ( Red Team Cheat Sheet )
+
+## Unorganized Link Dump :
+
+https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg ( Linux Distribution Timeline )
