@@ -33,6 +33,8 @@ https://www.fortinet.com/training/veterans-program
 
 ## Continued Education ( General ) :
 
+https://picoctf.org/resources.html
+
 https://www.offensive-security.com/
 
 https://www.giac.org/
