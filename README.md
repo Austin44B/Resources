@@ -19,9 +19,9 @@ https://vetsintech.co/
 https://silentprofessionals.org/ ( Government Job Board )
 
 
-https://www.dice.com/ ( Job Searching )
+https://www.dice.com/ ( Job Board )
 
-https://entrust.wd1.myworkdayjobs.com/en-US/EntrustCareers ( Job Searching )
+https://entrust.wd1.myworkdayjobs.com/en-US/EntrustCareers ( Job Board )
 
 ## Continued Education ( Veteran Focused ):
 
