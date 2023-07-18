@@ -1,5 +1,4 @@
-ALT- Resources
-# Cyber Security Resources.
+# _Cyber Security Resources :_
 
 https://tryhackme.com/
 
