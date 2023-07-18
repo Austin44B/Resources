@@ -19,4 +19,5 @@ https://vetsintech.co/
 https://military.microsoft.com/mssa/
 
 https://www.pnw.edu/cybersecurity/cwct/
-![image](https://github.com/Austin44B/Resources/assets/134319619/6d6b531a-50b3-437d-a5ac-be45d7efae0e)
+
+https://www.fortinet.com/training/veterans-program
