@@ -10,7 +10,15 @@ https://overthewire.org/wargames/
 
 https://www.root-me.org/?lang=en
 
-## Job Searching and Veteran cyber security career resources :
+## Job Searching 
+
+https://silentprofessionals.org/ ( Government Job Board )
+
+https://www.dice.com/ ( Job Board )
+
+https://entrust.wd1.myworkdayjobs.com/en-US/EntrustCareers ( Job Board )
+
+## Veteran cyber security career resources :
 
 https://actnoweducation.org/ ( Free Splunk & coursera Accounts )
 
@@ -18,11 +26,8 @@ https://veteransec.org/
 
 https://vetsintech.co/
 
-https://silentprofessionals.org/ ( Government Job Board )
+https://agileforpatriots.org/ ( SCRUM Training for Veterans )
 
-https://www.dice.com/ ( Job Board )
-
-https://entrust.wd1.myworkdayjobs.com/en-US/EntrustCareers ( Job Board )
 
 ## Continued Education ( Veteran Focused ):
 
