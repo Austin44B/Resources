@@ -1,5 +1,5 @@
 # Resources
-Cyber Security Resources.
+# Cyber Security Resources.
 
 https://tryhackme.com/
 https://www.hackthebox.com/
