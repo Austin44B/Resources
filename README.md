@@ -43,7 +43,7 @@ https://www.isc2.org/1mcc# ( Free ISC certification & training )
 
 https://simplycyber.teachable.com/ ( GRC skills master class )
 
-https://www.professormesser.com/ ( Highly Recomend for CompTia Sec+ & Net+ )
+https://www.professormesser.com/ ( Highly Recomend for CompTia Sec+, Net+, A+ )
 
 https://picoctf.org/resources.html
 
