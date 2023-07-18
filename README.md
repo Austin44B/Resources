@@ -42,4 +42,4 @@ https://www.giac.org/
 
 Within the [Cybersecurity Overview](https://www.nist.gov/cybersecurity) of NIST, is the [Risk Managment](https://www.nist.gov/risk-management) Topic where we find the [Cybersecurity Framework](https://www.nist.gov/cyberframework).
   
-  * Within the NIST [**Information Technology**](https://www.nist.gov/information-technology) overview, NIST also has a [**Artificial Inteligence**](https://www.nist.gov/artificial-intelligence) topic
+  * Within the NIST [**Information Technology**](https://www.nist.gov/information-technology) overview, NIST also has a [**Artificial Inteligence**](https://www.nist.gov/artificial-intelligence) topic.
