@@ -18,4 +18,4 @@ https://vetsintech.co/
 
 https://military.microsoft.com/mssa/
 
-https://www.pnw.edu/cybersecurity/cwct/steps-to-apply/
+https://www.pnw.edu/cybersecurity/cwct/
