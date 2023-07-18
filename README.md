@@ -61,6 +61,7 @@ Within the [Cybersecurity Overview](https://www.nist.gov/cybersecurity) of NIST,
 ## Learning Paths
 
 Red Team : Sec+ > Net+ > CEH/Pentest+ > PSL > PHDC > OSCP
+
 Blue Team : Sec+ > Net+ > CySA+ > Vendor Cert ( Splunk )
 
 https://pauljerimy.com/security-certification-roadmap/
