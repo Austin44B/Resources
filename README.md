@@ -10,7 +10,7 @@ https://overthewire.org/wargames/
 
 https://www.root-me.org/?lang=en
 
-## Veteran Websites for Job Searching and more :
+## Job Searching and Veteran cyber security career resources :
 
 https://veteransec.org/
 
