@@ -12,7 +12,7 @@ https://www.root-me.org/?lang=en
 
 ## Job Searching and Veteran cyber security career resources :
 
-https://actnoweducation.org/ ( Free Splunk & coursera )
+https://actnoweducation.org/ ( Free Splunk & coursera Accounts)
 
 https://veteransec.org/
 
