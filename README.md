@@ -41,7 +41,7 @@ https://www.fortinet.com/training/veterans-program
 
 https://www.isc2.org/1mcc# ( Free ISC certification & training )
 
-https://simplycyber.teachable.com/ ( Learn GRC skills )
+https://simplycyber.teachable.com/ ( GRC skills master class )
 
 https://www.professormesser.com/ ( Highly Recomend for CompTia Sec+ & Net+ )
 
