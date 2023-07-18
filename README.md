@@ -42,4 +42,4 @@ https://www.giac.org/
 
 https://www.nist.gov/cybersecurity
   
-  * includes
+  * NIST also has a ** Artificial Inteligence ** framework
