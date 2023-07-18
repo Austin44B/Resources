@@ -40,6 +40,8 @@ https://www.giac.org/
 
 ## Cybersecurity Frameworks :
 
-https://www.nist.gov/cybersecurity
+https://www.nist.gov/cyberframework
+
+  * https://www.nist.gov/cybersecurity
   
   * NIST also has a [**Artificial Inteligence**](https://www.nist.gov/artificial-intelligence) framework
