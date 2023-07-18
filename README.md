@@ -39,6 +39,8 @@ https://www.fortinet.com/training/veterans-program
 
 ## Continued Education ( General ) :
 
+https://simplycyber.teachable.com/ ( Learn GRC skills)
+
 https://www.professormesser.com/ ( Highly Recomend for CompTia Sec+ & Net+ )
 
 https://picoctf.org/resources.html
