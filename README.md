@@ -33,6 +33,8 @@ https://www.fortinet.com/training/veterans-program
 
 ## Continued Education ( General ) :
 
+https://www.professormesser.com/ ( Highly Recomend for CompTia Sec+ & Net + )
+
 https://picoctf.org/resources.html
 
 https://www.offensive-security.com/
