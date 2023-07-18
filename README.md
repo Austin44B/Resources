@@ -16,6 +16,8 @@ https://veteransec.org/
 
 https://vetsintech.co/
 
+https://www.dice.com/ ( Job Searching )
+
 ## Continued Education ( Veteran Focused ):
 
 https://military.microsoft.com/mssa/
