@@ -77,3 +77,5 @@ https://www.ired.team/offensive-security-experiments/offensive-security-cheetshe
 ## Unorganized Link Dump :
 
 https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg ( Linux Distribution Timeline )
+
+https://www.linuxfromscratch.org/ ( Want to build linux from scratch for fun ? )
