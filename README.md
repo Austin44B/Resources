@@ -1,4 +1,4 @@
-# _Cyber Security Resources :_
+# __Cyber Security Resources :__
 
 https://tryhackme.com/
 
