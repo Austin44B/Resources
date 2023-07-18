@@ -80,6 +80,8 @@ Blue Team : Sec+ > Net+ > CySA+ > Vendor Cert ( Splunk )
 
 https://pauljerimy.com/security-certification-roadmap/
 
+https://www.comptia.org/certifications/which-certification/stackable-certifications
+
 
 
 ## Pentesting Guides and Cheatsheets :
