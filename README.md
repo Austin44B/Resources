@@ -21,3 +21,9 @@ https://military.microsoft.com/mssa/
 https://www.pnw.edu/cybersecurity/cwct/
 
 https://www.fortinet.com/training/veterans-program
+
+## Continued Education ( General ) :
+
+https://www.offensive-security.com/
+
+https://www.giac.org/
