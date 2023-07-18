@@ -45,6 +45,8 @@ https://simplycyber.teachable.com/ ( GRC skills master class )
 
 https://www.professormesser.com/ ( Highly Recomend for CompTia Sec+, Net+, A+ )
 
+https://www.diontraining.com/home ( Highly Recomended for Cert Training )
+
 https://picoctf.org/resources.html
 
 https://www.offensive-security.com/
