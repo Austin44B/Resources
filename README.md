@@ -41,6 +41,18 @@ https://www.root-me.org/?lang=en
 
 [Linux E-mail](https://github.com/Austin44B/Resources/blob/c243103b5db5379ee68679fd16be521e847caf73/Book%20PDF%20Collection/Linux%20Email%2C%202nd%20Edition.pdf) "Set up, maintain, and secure a small office e-mail server"
 
+[Red Hat Enterprise Linux Server Cookbook](https://github.com/Austin44B/Resources/blob/a17a7a1cec79a49835985be5b2a25d20852991ca/Book%20PDF%20Collection/Red%20Hat%20Enterprise%20Linux%20Server%20Cookbook.pdf) " Build, Configure and orchestrate RHEL 7 Server to make your everyday aministration experience seamless"
+
+[Secuirty Power Tools](https://github.com/Austin44B/Resources/blob/a17a7a1cec79a49835985be5b2a25d20852991ca/Book%20PDF%20Collection/Security%20Power%20Tools.pdf) 
+
+ * Particularly interesting book for Pentesting. Recomend looking at table of of contents.
+   1. Legal and Ethics
+   2. Reconnaissance
+   3. Penetration
+   4. Control
+   5. Defense
+   6. Monitoring
+   7. Discovery
 
 
 
