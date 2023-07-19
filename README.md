@@ -20,15 +20,26 @@ https://www.root-me.org/?lang=en
 
 [Kali Linux Cookbook](https://github.com/Austin44B/Resources/blob/c243103b5db5379ee68679fd16be521e847caf73/Book%20PDF%20Collection/Kali%20Linux%20Cookbook.pdf) "Master Kali Linux for effective penetration security testing"
 
-[Firewalls Don't Stop Dragons](https://github.com/Austin44B/Resources/blob/c243103b5db5379ee68679fd16be521e847caf73/Book%20PDF%20Collection/Firewalls%20Don't%20Stop%20Dragons%2C%203rd%20Edition.pdf) "A Step-by-Step Guide to computer Security for Non-Techies"
+[Secuirty Power Tools](https://github.com/Austin44B/Resources/blob/a17a7a1cec79a49835985be5b2a25d20852991ca/Book%20PDF%20Collection/Security%20Power%20Tools.pdf) 
 
-[Cloud Security and Privacy](https://github.com/Austin44B/Resources/blob/c243103b5db5379ee68679fd16be521e847caf73/Book%20PDF%20Collection/Cloud%20Security%20and%20Privacy.pdf) "An Enterprise Perspective on Risks and Compliance"
+ * Particularly interesting book for Pentesting. Recomend looking futher into table of of contents.
+   1. Legal and Ethics
+   2. Reconnaissance
+   3. Penetration
+   4. Control
+   5. Defense
+   6. Monitoring
+   7. Discovery
+
+[Firewalls Don't Stop Dragons](https://github.com/Austin44B/Resources/blob/c243103b5db5379ee68679fd16be521e847caf73/Book%20PDF%20Collection/Firewalls%20Don't%20Stop%20Dragons%2C%203rd%20Edition.pdf) "A Step-by-Step Guide to computer Security for Non-Techies"
 
 [Black Hat Python](https://github.com/Austin44B/Resources/blob/c243103b5db5379ee68679fd16be521e847caf73/Book%20PDF%20Collection/Black%20Hat%20Python.pdf) "Python Programming for Hackers and Pentesters"
 
 [Python 3 for Absolute Beginners](https://github.com/Austin44B/Resources/blob/c243103b5db5379ee68679fd16be521e847caf73/Book%20PDF%20Collection/Python%203%20for%20Absolute%20Beginners%20(2009).pdf)
 
  * Check out "Mimo", Phone app for learning coding, Python is a offered language.
+
+[Cloud Security and Privacy](https://github.com/Austin44B/Resources/blob/c243103b5db5379ee68679fd16be521e847caf73/Book%20PDF%20Collection/Cloud%20Security%20and%20Privacy.pdf) "An Enterprise Perspective on Risks and Compliance"
 
 [AWS System Administration](https://github.com/Austin44B/Resources/blob/00801ed791cee293224dbf3e990262fd13debe4c/AWS%20System%20Administration.pdf)
 
@@ -43,17 +54,17 @@ https://www.root-me.org/?lang=en
 
 [Red Hat Enterprise Linux Server Cookbook](https://github.com/Austin44B/Resources/blob/a17a7a1cec79a49835985be5b2a25d20852991ca/Book%20PDF%20Collection/Red%20Hat%20Enterprise%20Linux%20Server%20Cookbook.pdf) " Build, Configure and orchestrate RHEL 7 Server to make your everyday aministration experience seamless"
 
-[Secuirty Power Tools](https://github.com/Austin44B/Resources/blob/a17a7a1cec79a49835985be5b2a25d20852991ca/Book%20PDF%20Collection/Security%20Power%20Tools.pdf) 
+[Security Monitoring](https://github.com/Austin44B/Resources/blob/a17a7a1cec79a49835985be5b2a25d20852991ca/Book%20PDF%20Collection/Security%20Monitoring.pdf) " 6 Steps to improve network monitoring"
 
- * Particularly interesting book for Pentesting. Recomend looking at table of of contents.
-   1. Legal and Ethics
-   2. Reconnaissance
-   3. Penetration
-   4. Control
-   5. Defense
-   6. Monitoring
-   7. Discovery
+[Securing DevOps](https://github.com/Austin44B/Resources/blob/ddd279437924d4c933d9b23a658d68514376dbf6/Book%20PDF%20Collection/Securing%20DevOps.pdf) "Security in the Cloud"
 
+[Security Intelligence](https://github.com/Austin44B/Resources/blob/ddd279437924d4c933d9b23a658d68514376dbf6/Book%20PDF%20Collection/Security%20Intelligence.pdf) "Guide to Solving Enterprise Security Challenges"
+
+[The CISSP Prep Guide](https://github.com/Austin44B/Resources/blob/ddd279437924d4c933d9b23a658d68514376dbf6/Book%20PDF%20Collection/The%20CISSP%20Prep%20Guide.pdf) "Mastering the Ten Domains of Computer Security"
+
+[Official (ISC)2 CISSP CBK Refrence guide, 5th Edition](https://github.com/Austin44B/Resources/blob/ddd279437924d4c933d9b23a658d68514376dbf6/Book%20PDF%20Collection/The%20Official%20(ISC)2%20Guide%20to%20the%20CISSP%20CBK%20Reference%2C%205th%20Edition.pdf) "CISSP: Certified Information Systems Security Professional"
+
+[SSCP: Systems Security Certified Practitioner, (ISC) Study Guide 2015](https://github.com/Austin44B/Resources/blob/ddd279437924d4c933d9b23a658d68514376dbf6/Book%20PDF%20Collection/SSCP%20(ISC)2%20Systems%20Security%20Certified%20Practitioner%20Official%20Study%20Guide.pdf)
 
 
 ## Job Searching 
