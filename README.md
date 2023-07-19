@@ -38,6 +38,7 @@ https://www.root-me.org/?lang=en
  * Check out "Mimo", Phone app for learning coding, Python is a offered language.
 
 [Firewalls Don't Stop Dragons](https://github.com/Austin44B/Resources/blob/c243103b5db5379ee68679fd16be521e847caf73/Book%20PDF%20Collection/Firewalls%20Don't%20Stop%20Dragons%2C%203rd%20Edition.pdf) "A Step-by-Step Guide to computer Security for Non-Techies"
+
 [Cloud Security and Privacy](https://github.com/Austin44B/Resources/blob/c243103b5db5379ee68679fd16be521e847caf73/Book%20PDF%20Collection/Cloud%20Security%20and%20Privacy.pdf) "An Enterprise Perspective on Risks and Compliance"
 
 [AWS System Administration](https://github.com/Austin44B/Resources/blob/00801ed791cee293224dbf3e990262fd13debe4c/AWS%20System%20Administration.pdf)
