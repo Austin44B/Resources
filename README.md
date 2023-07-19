@@ -15,7 +15,7 @@ https://www.root-me.org/?lang=en
 
 
 ## Book PDFs
-
+[AWS System Administration](https://github.com/Austin44B/Resources/blob/00801ed791cee293224dbf3e990262fd13debe4c/AWS%20System%20Administration.pdf)
 
 
 ## Job Searching 
