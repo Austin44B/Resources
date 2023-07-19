@@ -28,6 +28,8 @@ https://www.root-me.org/?lang=en
 
 [Python 3 for Absolute Beginners](https://github.com/Austin44B/Resources/blob/c243103b5db5379ee68679fd16be521e847caf73/Book%20PDF%20Collection/Python%203%20for%20Absolute%20Beginners%20(2009).pdf)
 
+ * Check out "Mimo", Phone app for learning coding, Python is a offered language.
+
 [AWS System Administration](https://github.com/Austin44B/Resources/blob/00801ed791cee293224dbf3e990262fd13debe4c/AWS%20System%20Administration.pdf)
 
   * Vendor Cert
