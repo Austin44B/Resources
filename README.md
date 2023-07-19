@@ -18,7 +18,28 @@ https://www.root-me.org/?lang=en
 
 ### Book PDFs of highlight :
 
+[Kali Linux Cookbook](https://github.com/Austin44B/Resources/blob/c243103b5db5379ee68679fd16be521e847caf73/Book%20PDF%20Collection/Kali%20Linux%20Cookbook.pdf) "Master Kali Linux for effective penetration security testing"
+
+[Firewalls Don't Stop Dragons](https://github.com/Austin44B/Resources/blob/c243103b5db5379ee68679fd16be521e847caf73/Book%20PDF%20Collection/Firewalls%20Don't%20Stop%20Dragons%2C%203rd%20Edition.pdf) "A Step-by-Step Guide to computer Security for Non-Techies"
+
+[Cloud Security and Privacy](https://github.com/Austin44B/Resources/blob/c243103b5db5379ee68679fd16be521e847caf73/Book%20PDF%20Collection/Cloud%20Security%20and%20Privacy.pdf) "An Enterprise Perspective on Risks and Compliance"
+
+[Black Hat Python](https://github.com/Austin44B/Resources/blob/c243103b5db5379ee68679fd16be521e847caf73/Book%20PDF%20Collection/Black%20Hat%20Python.pdf) "Python Programming for Hackers and Pentesters"
+
+[Python 3 for Absolute Beginners](https://github.com/Austin44B/Resources/blob/c243103b5db5379ee68679fd16be521e847caf73/Book%20PDF%20Collection/Python%203%20for%20Absolute%20Beginners%20(2009).pdf)
+
 [AWS System Administration](https://github.com/Austin44B/Resources/blob/00801ed791cee293224dbf3e990262fd13debe4c/AWS%20System%20Administration.pdf)
+
+  * Vendor Cert
+
+[Getting an Information Security Job](https://github.com/Austin44B/Resources/blob/c243103b5db5379ee68679fd16be521e847caf73/Book%20PDF%20Collection/Getting%20an%20Information%20Security%20Job%20For%20Dummies.pdf)
+
+  * Identify Information security roles
+  * Determine which certifications you need
+
+[Linux E-mail](https://github.com/Austin44B/Resources/blob/c243103b5db5379ee68679fd16be521e847caf73/Book%20PDF%20Collection/Linux%20Email%2C%202nd%20Edition.pdf) "Set up, maintain, and secure a small office e-mail server"
+
+
 
 
 ## Job Searching 
