@@ -149,7 +149,7 @@ https://www.comptia.org/certifications/which-certification/stackable-certificati
 
 https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets ( Red Team Cheat Sheet )
 
-
+[A Red Teamer's guide to pivoting](https://artkond.com/2017/03/23/pivoting-guide/)
 
 ### Linux Privilege escalation :
 
