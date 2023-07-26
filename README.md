@@ -175,6 +175,8 @@ https://amandaszampias.blogspot.com/2020/11/linux-privilege-escalation-jutsus.ht
 
 https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/
 
+https://remoteawesomethoughts.blogspot.com/2019/05/windows-10-task-schedulerservice.html
+
 ### Red Team **Persistance** :
 
 [**Linux** Red Team Persistance techniques](https://www.linode.com/docs/guides/linux-red-team-persistence-techniques/)
