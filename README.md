@@ -4,13 +4,13 @@
 
 ## Games for learning and developing skills :
 
-https://tryhackme.com/
+[Try Hack Me](https://tryhackme.com/)
 
-https://www.hackthebox.com/
+[Hack The Box](https://www.hackthebox.com/)
 
-https://overthewire.org/wargames/
+[Over the wire](https://overthewire.org/wargames/)
 
-https://www.root-me.org/?lang=en
+[Root Me](https://www.root-me.org/?lang=en)
 
 
 
@@ -81,13 +81,13 @@ https://entrust.wd1.myworkdayjobs.com/en-US/EntrustCareers ( Job Board )
 
 ## Veteran cyber security career resources :
 
-https://actnoweducation.org/ ( Free Splunk & coursera Accounts )
+[Act Now Education](https://actnoweducation.org/) ( Free Splunk & coursera Accounts )
 
 https://veteransec.org/
 
 https://vetsintech.co/
 
-https://agileforpatriots.org/ ( SCRUM Training for Veterans )
+[Agile for Patriots](https://agileforpatriots.org/) ( SCRUM Training for Veterans )
 
 
 
