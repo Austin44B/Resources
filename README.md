@@ -153,7 +153,7 @@ https://www.ired.team/offensive-security-experiments/offensive-security-cheetshe
 
 [A Red Teamer's guide to pivoting](https://artkond.com/2017/03/23/pivoting-guide/)
 
-[Reverse Shell Refrence by Navisec Delta](https://delta.navisec.io/reverse-shell-reference/)
+[Reverse Shell Refrence](https://delta.navisec.io/reverse-shell-reference/)  by Navisec Delta
    - Also recommend checking out ["Privilege Escalation Reference"](https://delta.navisec.io/privilege-escalation/)
 
 ### Linux Privilege escalation :
