@@ -145,9 +145,9 @@ https://www.comptia.org/certifications/which-certification/stackable-certificati
 
 ## Pentesting Guides and Cheatsheets :
 
-[Hacktricks](https://book.hacktricks.xyz/linux-hardening/linux-privilege-escalation-checklist) ( Highly Recomended for Linux Privilege escalation )
+[Hacktricks](https://book.hacktricks.xyz/linux-hardening/linux-privilege-escalation-checklist) ( Highly Recommended for Linux Privilege escalation )
 
-[g0tmilk](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) ( Highly Recomended for Linux Privilege escalation )
+[g0tmilk](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) ( Highly Recommended for Linux Privilege escalation )
 
 https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets ( Red Team Cheat Sheet )
 
