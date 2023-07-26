@@ -1,4 +1,4 @@
-# __Cyber Security Resources :__
+# __Cyber Security Resources __
 
 # Table of Contents
 
@@ -16,7 +16,7 @@
 
          7) Pentesting Guides and Cheatsheets
 
-## Games for learning and developing skills :
+## Games for learning and developing skills 
 
 [Try Hack Me](https://tryhackme.com/) ( Highly Recommended for all levels of experience )
 
