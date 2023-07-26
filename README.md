@@ -1,5 +1,82 @@
 # __Cyber Security Resources :__
 
+
+
+## Games for learning and developing skills :
+
+[Try Hack Me](https://tryhackme.com/) ( Highly Recommended for all levels of experience )
+
+[Hack The Box](https://www.hackthebox.com/)
+
+[Over the wire](https://overthewire.org/wargames/)
+
+[Root Me](https://www.root-me.org/?lang=en)
+
+
+
+## Veteran cyber security career resources :
+
+**VET TEC** through an online intensive study vocational trade school called [**Divergence Academy**](https://www.divergence.one/) 
+   - Personally did attend this vocational Trade school for Cybersecurity and Professional penteting, I highly recommend to anyone, especially Veterans with a minimum of one day of GI         benefits available to be able to apply for **VET TEC**. 
+
+[Act Now Education](https://actnoweducation.org/) ( Free Splunk & coursera Accounts )
+
+[Agile for Patriots](https://agileforpatriots.org/) ( SCRUM Training for Veterans )
+
+https://veteransec.org/
+
+https://vetsintech.co/
+
+
+
+## Learning Paths
+
+Red Team : Sec+ > Net+ > CEH/Pentest+ > PSL > PHDC > OSCP
+
+Blue Team : Sec+ > Net+ > CySA+ > Vendor Cert ( Splunk )
+
+https://pauljerimy.com/security-certification-roadmap/
+
+https://www.comptia.org/certifications/which-certification/stackable-certifications
+
+
+
+## Continued Education
+
+   ### Veteran Focused :
+   
+   [Microsoft Software & Systems Academy](https://military.microsoft.com/mssa/) ( MSSA )
+   
+   - Cybersecurity Operations (CSO)
+        
+   - Server and Cloud Administration (SCA)
+        
+   - Cloud Application Development (CAD)
+   
+   https://www.pnw.edu/cybersecurity/cwct/
+   
+   https://www.fortinet.com/training/veterans-program
+
+   ### General :
+   
+   [Professor Messer](https://www.professormesser.com/) ( Highly Recommend for CompTia Sec+, Net+, A+ )
+   
+   [Dion Training](https://www.diontraining.com/home) ( Highly Recommended for Cert Training )
+   
+   https://www.isc2.org/1mcc# ( Free ISC certification & training )
+   
+   https://simplycyber.teachable.com/ ( GRC skills master class )
+   
+   https://cromwell-intl.com/cybersecurity/ ( Free study materials for SEC+, CISSP and CCSP )
+   
+   https://picoctf.org/resources.html
+   
+   https://www.offensive-security.com/
+   
+   https://www.giac.org/
+
+
+
 ## Youtube Channels/videos 
 
 [Hacking Web Applications](https://www.youtube.com/watch?v=1GJ_LwNw6sc)
@@ -14,15 +91,6 @@ Interested in learning about [Machine Learning](https://youtube.com/playlist?lis
 
 Pentesting Tool called [Sn1per](https://gbhackers.com/sn1per/)
 
-## Games for learning and developing skills :
-
-[Try Hack Me](https://tryhackme.com/) ( Highly Recommended for all levels of experience )
-
-[Hack The Box](https://www.hackthebox.com/)
-
-[Over the wire](https://overthewire.org/wargames/)
-
-[Root Me](https://www.root-me.org/?lang=en)
 
 
 
@@ -79,67 +147,11 @@ Pentesting Tool called [Sn1per](https://gbhackers.com/sn1per/)
 [SSCP: Systems Security Certified Practitioner, (ISC) Study Guide 2015](https://github.com/Austin44B/Resources/blob/ddd279437924d4c933d9b23a658d68514376dbf6/Book%20PDF%20Collection/SSCP%20(ISC)2%20Systems%20Security%20Certified%20Practitioner%20Official%20Study%20Guide.pdf)
 
 
-## Job Searching 
-
-https://silentprofessionals.org/ ( Government Job Board )
-
-https://www.clearancejobs.com/ ( Clearnce Job Board )
-
-https://www.dice.com/ ( Job Board )
-
-https://entrust.wd1.myworkdayjobs.com/en-US/EntrustCareers ( Job Board )
 
 
 
-## Veteran cyber security career resources :
 
-[Act Now Education](https://actnoweducation.org/) ( Free Splunk & coursera Accounts )
-
-https://veteransec.org/
-
-https://vetsintech.co/
-
-[Agile for Patriots](https://agileforpatriots.org/) ( SCRUM Training for Veterans )
-
-
-
-## Continued Education
-
-   ### Veteran Focused :
-   
-   [Microsoft Software & Systems Academy](https://military.microsoft.com/mssa/) ( MSSA )
-   
-   - Cybersecurity Operations (CSO)
-        
-   - Server and Cloud Administration (SCA)
-        
-   - Cloud Application Development (CAD)
-   
-   https://www.pnw.edu/cybersecurity/cwct/
-   
-   https://www.fortinet.com/training/veterans-program
-
-   ### General :
-   
-   [Professor Messer](https://www.professormesser.com/) ( Highly Recommend for CompTia Sec+, Net+, A+ )
-   
-   [Dion Training](https://www.diontraining.com/home) ( Highly Recommended for Cert Training )
-   
-   https://www.isc2.org/1mcc# ( Free ISC certification & training )
-   
-   https://simplycyber.teachable.com/ ( GRC skills master class )
-   
-   https://cromwell-intl.com/cybersecurity/ ( Free study materials for SEC+, CISSP and CCSP )
-   
-   https://picoctf.org/resources.html
-   
-   https://www.offensive-security.com/
-   
-   https://www.giac.org/
-
-
-
-## Cybersecurity Frameworks :
+## Cybersecurity Frameworks 
 
 Within the [Cybersecurity Overview](https://www.nist.gov/cybersecurity) of **NIST**, is the [Risk Managment](https://www.nist.gov/risk-management) Topic where we find the **_[Cybersecurity Framework](https://www.nist.gov/cyberframework)_**.
   
@@ -147,19 +159,7 @@ Within the [Cybersecurity Overview](https://www.nist.gov/cybersecurity) of **NIS
 
 
 
-## Learning Paths
-
-Red Team : Sec+ > Net+ > CEH/Pentest+ > PSL > PHDC > OSCP
-
-Blue Team : Sec+ > Net+ > CySA+ > Vendor Cert ( Splunk )
-
-https://pauljerimy.com/security-certification-roadmap/
-
-https://www.comptia.org/certifications/which-certification/stackable-certifications
-
-
-
-## Pentesting Guides and Cheatsheets :
+## Pentesting Guides and Cheatsheets 
 
 [Hacktricks](https://book.hacktricks.xyz/linux-hardening/linux-privilege-escalation-checklist) ( Highly Recommended for Linux Privilege escalation )
 
@@ -197,9 +197,21 @@ https://remoteawesomethoughts.blogspot.com/2019/05/windows-10-task-schedulerserv
 
    ![image](https://github.com/Austin44B/Resources/assets/134319619/929b3d92-6710-493d-b7f5-817062031758)
 
-
-
 [**Windows** Persistence Techniques](https://pentestlab.blog/2019/11/04/persistence-scheduled-tasks/)
+
+
+
+## Job Searching 
+
+https://silentprofessionals.org/ ( Government Job Board )
+
+https://www.clearancejobs.com/ ( Clearnce Job Board )
+
+https://www.dice.com/ ( Job Board )
+
+https://entrust.wd1.myworkdayjobs.com/en-US/EntrustCareers ( Job Board )
+
+
 
 ## Unorganized Link Dump :
 
