@@ -1,6 +1,20 @@
 # __Cyber Security Resources :__
 
+         #Table of Contents
 
+         1) Games
+
+         2) Education
+
+         3) Learning Paths
+
+         4) Videos & Blogs
+
+         5) Books
+
+         6) Cybersecurity Frameworks
+
+         7) Pentesting Guides and Cheatsheets
 
 ## Games for learning and developing skills :
 
