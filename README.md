@@ -154,11 +154,14 @@ https://www.ired.team/offensive-security-experiments/offensive-security-cheetshe
 [A Red Teamer's guide to pivoting](https://artkond.com/2017/03/23/pivoting-guide/)
 
 [Reverse Shell Refrence](https://delta.navisec.io/reverse-shell-reference/)  by Navisec Delta
-   - Also recommend checking out ["Privilege Escalation Reference"](https://delta.navisec.io/privilege-escalation/)
 
 [Linux Red Team **Persistance** techniques](https://www.linode.com/docs/guides/linux-red-team-persistence-techniques/)
 
 ### Linux Privilege escalation :
+
+[Privilege Escalation Reference](https://delta.navisec.io/privilege-escalation/) by Navisec Delta
+
+[Windows Persistence Techniques](https://pentestlab.blog/2019/11/04/persistence-scheduled-tasks/)
 
 https://github.com/Anon-Exploiter/SUID3NUM
 
