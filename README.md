@@ -195,7 +195,8 @@ https://remoteawesomethoughts.blogspot.com/2019/05/windows-10-task-schedulerserv
 
 [**Linux** Red Team Persistance techniques](https://www.linode.com/docs/guides/linux-red-team-persistence-techniques/) By Linode and Akamai
 
-   ![image](https://github.com/Austin44B/Resources/assets/134319619/dd2e68f3-aa6f-4471-ad64-8a1d705e4b0a)
+   ![image](https://github.com/Austin44B/Resources/assets/134319619/929b3d92-6710-493d-b7f5-817062031758)
+
 
 
 [**Windows** Persistence Techniques](https://pentestlab.blog/2019/11/04/persistence-scheduled-tasks/)
