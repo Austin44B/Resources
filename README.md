@@ -121,15 +121,15 @@ https://www.fortinet.com/training/veterans-program
 
 ### General :
 
+[Professor Messer](https://www.professormesser.com/) ( Highly Recommend for CompTia Sec+, Net+, A+ )
+
+[Dion Training](https://www.diontraining.com/home) ( Highly Recommended for Cert Training )
+
 https://www.isc2.org/1mcc# ( Free ISC certification & training )
 
 https://simplycyber.teachable.com/ ( GRC skills master class )
 
 https://cromwell-intl.com/cybersecurity/ ( Free study materials for SEC+, CISSP and CCSP )
-
-https://www.professormesser.com/ ( Highly Recomend for CompTia Sec+, Net+, A+ )
-
-https://www.diontraining.com/home ( Highly Recomended for Cert Training )
 
 https://picoctf.org/resources.html
 
