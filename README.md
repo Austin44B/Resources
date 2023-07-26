@@ -4,7 +4,7 @@
 
 [Running a Buffer Overflow Attack - Computerphile](https://www.youtube.com/watch?v=1S0aBV-Waeo)
 
-Interested in learning about [AI](https://youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG) ?
+Interested in learning about [Machine Learning](https://youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG) ?
 
 ## Games for learning and developing skills :
 
