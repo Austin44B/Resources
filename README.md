@@ -99,6 +99,8 @@ Interested in learning about [Machine Learning](https://youtube.com/playlist?lis
 
 [Top 30 best penetration tools](https://cybersecuritynews.com/penetration-testing-tools/)
 
+[Top 11 best Vulnerability Assessment and Penetration Testing (VAPT) tools](https://cybersecuritynews.com/vapt-tools/)
+
 Pentesting Tool called [Sn1per](https://gbhackers.com/sn1per/)
 
 
