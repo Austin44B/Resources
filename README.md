@@ -4,6 +4,8 @@
 
 [Running a Buffer Overflow Attack - Computerphile](https://www.youtube.com/watch?v=1S0aBV-Waeo)
 
+Interested in learning about [AI](https://youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG) ?
+
 ## Games for learning and developing skills :
 
 [Try Hack Me](https://tryhackme.com/) ( Highly Recomended for all levels of experience )
@@ -185,4 +187,3 @@ https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/
 
 Want to build [**linux from scratch**](https://www.linuxfromscratch.org/) for fun ?
 
-[Interested in learning about AI ?](https://youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
