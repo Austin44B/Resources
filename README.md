@@ -2,6 +2,8 @@
 
 ## Youtube Channels/videos 
 
+[Running a Buffer Overflow Attack - Computerphile](https://www.youtube.com/watch?v=1S0aBV-Waeo)
+
 ## Games for learning and developing skills :
 
 [Try Hack Me](https://tryhackme.com/) ( Highly Recomended for all levels of experience )
@@ -150,6 +152,9 @@ https://www.comptia.org/certifications/which-certification/stackable-certificati
 https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets ( Red Team Cheat Sheet )
 
 [A Red Teamer's guide to pivoting](https://artkond.com/2017/03/23/pivoting-guide/)
+
+[Reverse Shell Refrence by Navisec Delta](https://delta.navisec.io/reverse-shell-reference/)
+   - Also recommend checking out ["Privilege Escalation Reference"](https://delta.navisec.io/privilege-escalation/)
 
 ### Linux Privilege escalation :
 
