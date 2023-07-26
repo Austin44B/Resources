@@ -10,6 +10,8 @@ Interested in learning about [Machine Learning](https://youtube.com/playlist?lis
 
 [Top 30 best penetration tools](https://cybersecuritynews.com/penetration-testing-tools/)
 
+Pentesting Tool called [Sn1per](https://gbhackers.com/sn1per/)
+
 ## Games for learning and developing skills :
 
 [Try Hack Me](https://tryhackme.com/) ( Highly Recommended for all levels of experience )
