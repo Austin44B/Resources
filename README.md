@@ -1,6 +1,6 @@
 # __Cyber Security Resources :__
 
-         #Table of Contents
+#Table of Contents
 
          1) Games
 
