@@ -8,7 +8,7 @@ Interested in learning about [Machine Learning](https://youtube.com/playlist?lis
 
 ## Games for learning and developing skills :
 
-[Try Hack Me](https://tryhackme.com/) ( Highly Recomended for all levels of experience )
+[Try Hack Me](https://tryhackme.com/) ( Highly Recommended for all levels of experience )
 
 [Hack The Box](https://www.hackthebox.com/)
 
