@@ -156,6 +156,8 @@ https://www.ired.team/offensive-security-experiments/offensive-security-cheetshe
 [Reverse Shell Refrence](https://delta.navisec.io/reverse-shell-reference/)  by Navisec Delta
    - Also recommend checking out ["Privilege Escalation Reference"](https://delta.navisec.io/privilege-escalation/)
 
+[Linux Red Team **Persistance** techniques](https://www.linode.com/docs/guides/linux-red-team-persistence-techniques/)
+
 ### Linux Privilege escalation :
 
 https://github.com/Anon-Exploiter/SUID3NUM
