@@ -180,6 +180,6 @@ https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/
 
 [Linux Distribution Timeline ](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
 
-[Want to build linux from scratch for fun ?](https://www.linuxfromscratch.org/)
+Want to build [linux from scratch](https://www.linuxfromscratch.org/) for fun ?
 
 [Interested in learning about AI ?](https://youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
