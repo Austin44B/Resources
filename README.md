@@ -17,7 +17,7 @@
 ## Veteran cyber security career resources :
 
 **VET TEC** through an online intensive study vocational trade school called [**Divergence Academy**](https://www.divergence.one/) 
-   - Personally did attend this vocational Trade school for Cybersecurity and Professional penteting, highly recommend to anyone, especially Veterans with a minimum of one day of GI         benefits available to be able to apply for **VET TEC**. 
+   - Personally attended this vocational Trade school for Cybersecurity and Professional penteting, highly recommend to anyone, especially Veterans with a minimum of one day of GI         benefits available, to apply for **VET TEC**. 
 
 [Act Now Education](https://actnoweducation.org/) ( Free Splunk & coursera Accounts )
 
