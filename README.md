@@ -178,8 +178,8 @@ https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/
 
 ## Unorganized Link Dump :
 
-https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg ( Linux Distribution Timeline )
+[Linux Distribution Timeline ](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
 
-https://www.linuxfromscratch.org/ ( Want to build linux from scratch for fun ? )
+[Want to build linux from scratch for fun ?](https://www.linuxfromscratch.org/)
 
-https://youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG ( Interested in learning about AI ? )
+[Interested in learning about AI ?](https://youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
