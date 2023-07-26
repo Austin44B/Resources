@@ -147,8 +147,6 @@ https://www.comptia.org/certifications/which-certification/stackable-certificati
 
 [Hacktricks](https://book.hacktricks.xyz/linux-hardening/linux-privilege-escalation-checklist) ( Highly Recommended for Linux Privilege escalation )
 
-[g0tmilk](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) ( Highly Recommended for Linux Privilege escalation )
-
 https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets ( Red Team Cheat Sheet )
 
 [A Red Teamer's guide to pivoting](https://artkond.com/2017/03/23/pivoting-guide/)
@@ -157,7 +155,9 @@ https://www.ired.team/offensive-security-experiments/offensive-security-cheetshe
 
 ### Linux Privilege escalation :
 
-[Privilege Escalation Reference](https://delta.navisec.io/privilege-escalation/) by Navisec Delta
+[g0tmilk](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) ( Highly Recommended )
+
+[Navisec Delta](https://delta.navisec.io/privilege-escalation/) ( Simple and to the point )
 
 https://github.com/Anon-Exploiter/SUID3NUM
 
