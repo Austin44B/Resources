@@ -103,7 +103,9 @@ https://vetsintech.co/
 
 
 
-## Continued Education ( Veteran Focused ):
+## Continued Education
+
+### Veteran Focused :
 
 [Microsoft Software & Systems Academy](https://military.microsoft.com/mssa/) ( MSSA )
 
@@ -117,9 +119,7 @@ https://www.pnw.edu/cybersecurity/cwct/
 
 https://www.fortinet.com/training/veterans-program
 
-
-
-## Continued Education ( General ) :
+### General :
 
 https://www.isc2.org/1mcc# ( Free ISC certification & training )
 
