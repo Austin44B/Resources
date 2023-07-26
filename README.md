@@ -155,13 +155,9 @@ https://www.ired.team/offensive-security-experiments/offensive-security-cheetshe
 
 [Reverse Shell Refrence](https://delta.navisec.io/reverse-shell-reference/)  by Navisec Delta
 
-[Linux Red Team **Persistance** techniques](https://www.linode.com/docs/guides/linux-red-team-persistence-techniques/)
-
 ### Linux Privilege escalation :
 
 [Privilege Escalation Reference](https://delta.navisec.io/privilege-escalation/) by Navisec Delta
-
-[Windows Persistence Techniques](https://pentestlab.blog/2019/11/04/persistence-scheduled-tasks/)
 
 https://github.com/Anon-Exploiter/SUID3NUM
 
@@ -177,7 +173,11 @@ https://amandaszampias.blogspot.com/2020/11/linux-privilege-escalation-jutsus.ht
 
 https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/
 
+### Red Team Persistance :
 
+[Linux Red Team **Persistance** techniques](https://www.linode.com/docs/guides/linux-red-team-persistence-techniques/)
+
+[Windows **Persistence** Techniques](https://pentestlab.blog/2019/11/04/persistence-scheduled-tasks/)
 
 ## Unorganized Link Dump :
 
