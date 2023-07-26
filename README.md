@@ -6,6 +6,10 @@
 
 Interested in learning about [Machine Learning](https://youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG) ?
 
+### Blogs
+
+[Top 30 best penetration tools](https://cybersecuritynews.com/penetration-testing-tools/)
+
 ## Games for learning and developing skills :
 
 [Try Hack Me](https://tryhackme.com/) ( Highly Recommended for all levels of experience )
