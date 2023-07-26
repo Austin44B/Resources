@@ -4,7 +4,7 @@
 
 ## Games for learning and developing skills :
 
-[Try Hack Me](https://tryhackme.com/)
+[Try Hack Me](https://tryhackme.com/) ( Highly Recomended for all levels of experience )
 
 [Hack The Box](https://www.hackthebox.com/)
 
