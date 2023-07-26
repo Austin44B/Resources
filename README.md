@@ -14,37 +14,13 @@
 
 
 
-## Veteran cyber security career resources :
+## Education and Career Resources
+
+### Veteran focused resources :
 
 **VET TEC** through an online intensive study vocational trade school called [**Divergence Academy**](https://www.divergence.one/) 
    - Personally attended this vocational Trade school for Cybersecurity and Professional penteting, highly recommend to anyone, especially Veterans with a minimum of one day of GI         benefits available, to apply for **VET TEC**. 
 
-[Act Now Education](https://actnoweducation.org/) ( Free Splunk & coursera Accounts )
-
-[Agile for Patriots](https://agileforpatriots.org/) ( SCRUM Training for Veterans )
-
-https://veteransec.org/
-
-https://vetsintech.co/
-
-
-
-## Learning Paths
-
-Red Team : Sec+ > Net+ > CEH/Pentest+ > PSL > PHDC > OSCP
-
-Blue Team : Sec+ > Net+ > CySA+ > Vendor Cert ( Splunk )
-
-https://pauljerimy.com/security-certification-roadmap/
-
-https://www.comptia.org/certifications/which-certification/stackable-certifications
-
-
-
-## Continued Education
-
-   ### Veteran Focused :
-   
    [Microsoft Software & Systems Academy](https://military.microsoft.com/mssa/) ( MSSA )
    
    - Cybersecurity Operations (CSO)
@@ -57,7 +33,15 @@ https://www.comptia.org/certifications/which-certification/stackable-certificati
    
    https://www.fortinet.com/training/veterans-program
 
-   ### General :
+[Act Now Education](https://actnoweducation.org/) ( Free Splunk & coursera Accounts )
+
+[Agile for Patriots](https://agileforpatriots.org/) ( SCRUM Training for Veterans )
+
+https://veteransec.org/
+
+https://vetsintech.co/
+
+ ### General :
    
    [Professor Messer](https://www.professormesser.com/) ( Highly Recommend for CompTia Sec+, Net+, A+ )
    
@@ -74,6 +58,18 @@ https://www.comptia.org/certifications/which-certification/stackable-certificati
    https://www.offensive-security.com/
    
    https://www.giac.org/
+
+   
+
+## Learning Paths
+
+Red Team : Sec+ > Net+ > CEH/Pentest+ > PSL > PHDC > OSCP
+
+Blue Team : Sec+ > Net+ > CySA+ > Vendor Cert ( Splunk )
+
+https://pauljerimy.com/security-certification-roadmap/
+
+https://www.comptia.org/certifications/which-certification/stackable-certifications
 
 
 
