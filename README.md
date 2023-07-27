@@ -169,7 +169,8 @@ Within the [Cybersecurity Overview](https://www.nist.gov/cybersecurity) of **NIS
   
   * Within the NIST [**Information Technology**](https://www.nist.gov/information-technology) overview, there is also a [**Artificial Inteligence**](https://www.nist.gov/artificial-intelligence) topic.
 
-
+OWASP
+ATTCK&MTTRE
 
 ## Pentesting Guides and Cheatsheets 
 
