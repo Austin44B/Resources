@@ -1,4 +1,4 @@
-# __Cyber Security Resources __
+# __Cyber Security Resources & some __
 
 # Table of Contents
 
@@ -25,7 +25,6 @@
 [Over the wire](https://overthewire.org/wargames/)
 
 [Root Me](https://www.root-me.org/?lang=en)
-
 
 
 ## Education and Career Resources
@@ -100,6 +99,8 @@ https://www.comptia.org/certifications/which-certification/stackable-certificati
 [Running a Buffer Overflow Attack](https://www.youtube.com/watch?v=1S0aBV-Waeo)
 
 Interested in learning about [Machine Learning](https://youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG) ?
+
+[Pyhon Tutorial - Python Full Course for Beginners](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 
 ### Blogs
 
@@ -240,4 +241,7 @@ https://entrust.wd1.myworkdayjobs.com/en-US/EntrustCareers ( Job Board )
 [Linux Distribution Timeline ](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
 
 Want to build [**linux from scratch**](https://www.linuxfromscratch.org/) for fun ?
+
+
+[Replit](https://replit.com/) - Learning to code
 
