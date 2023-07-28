@@ -117,7 +117,7 @@ Pentesting Tool called [Sn1per](https://gbhackers.com/sn1per/)
 
 ## [Book PDF Folder](https://github.com/Austin44B/Resources/tree/0480863f88d8547780c3b9415ebe4716e7917e17/Book%20PDF%20Collection)
 
-### Book PDFs of highlight : Note, A few books not linked.
+### Book PDFs of highlight : Note, A few books not linked. [ Look into RFTM and BTFM ]
 
 [Kali Linux Cookbook](https://github.com/Austin44B/Resources/blob/c243103b5db5379ee68679fd16be521e847caf73/Book%20PDF%20Collection/Kali%20Linux%20Cookbook.pdf) "Master Kali Linux for effective penetration security testing"
 
