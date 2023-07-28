@@ -43,7 +43,13 @@
         
    - Cloud Application Development (CAD)
    
-   https://www.pnw.edu/cybersecurity/cwct/
+  [Purdue University Northwest](https://www.pnw.edu/cybersecurity/cwct/)
+  
+   - [Cybersecurity-Artificial Intelligence (CS_AI)](https://www.pnw.edu/cybersecurity/cwct/cybersecurity-artificial-intelligence-cs_ai-certificate-program/)
+
+   - [Cybersecurity-System Administration (CS_SA)](https://www.pnw.edu/cybersecurity/cwct/cybersecurity-system-administration-certificate-program/)
+
+   - [Cybersecurity-Digital Forensics (CS_DF)](https://www.pnw.edu/cybersecurity/cwct/cybersecurity-digital-forensics-cs_df-certificate-program/)
    
    https://www.fortinet.com/training/veterans-program
 
