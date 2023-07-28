@@ -104,6 +104,7 @@ Interested in learning about [Machine Learning](https://youtube.com/playlist?lis
 Pentesting Tool called [Sn1per](https://gbhackers.com/sn1per/)
 
 [Ethical Hacking 101: Basic Web Enumeration](https://thebe0vlksaga.com/2019/03/31/ethical-hacking-101-web-server-enumeration/)
+super helpful link for mental map for pentesting : https://github.com/Orange-Cyberdefense/ocd-mindmaps/blob/main/img/pentest_ad_dark_2023_02.svg
 
 
 
