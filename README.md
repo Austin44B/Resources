@@ -43,9 +43,7 @@
         
    - Cloud Application Development (CAD)
    
-  [Purdue University Northwest](https://www.pnw.edu/cybersecurity/cwct/)
-
-Free Training :
+ Free cybersecurity from  [Purdue University Northwest](https://www.pnw.edu/cybersecurity/cwct/)
   
    - [Cybersecurity-Artificial Intelligence (CS_AI)](https://www.pnw.edu/cybersecurity/cwct/cybersecurity-artificial-intelligence-cs_ai-certificate-program/)
 
