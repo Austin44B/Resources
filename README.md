@@ -168,7 +168,7 @@ Pentesting Tool called [Sn1per](https://gbhackers.com/sn1per/)
 
 [SSCP: Systems Security Certified Practitioner, (ISC) Study Guide 2015](https://github.com/Austin44B/Resources/blob/ddd279437924d4c933d9b23a658d68514376dbf6/Book%20PDF%20Collection/SSCP%20(ISC)2%20Systems%20Security%20Certified%20Practitioner%20Official%20Study%20Guide.pdf)
 
-
+[DoD Zero Trust Reference Architecture](https://github.com/Austin44B/Resources/blob/main/Book%20PDF%20Collection/DoD%20Zero%20Trust%20Reference%20Architecture.pdf)
 
 
 
